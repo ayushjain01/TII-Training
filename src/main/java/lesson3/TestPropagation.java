@@ -1,4 +1,4 @@
-package Lesson3;
+package lesson3;
 import java.io.IOException;
 class TestPropagation{
     void m()throws IOException {

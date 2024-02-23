@@ -1,7 +1,4 @@
-package Lesson2;
-
-import Lesson1.Student;
-import Lesson1.Utils;
+package lesson2;
 
 public class Main {
     public static void main(String[] args) {

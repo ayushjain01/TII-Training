@@ -1,4 +1,4 @@
-package Lesson1;
+package lesson1;
 
 public class Utils {
     public static int add(int a, int b){

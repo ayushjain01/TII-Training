@@ -1,4 +1,4 @@
-package Lesson4;
+package lesson4;
 
 public abstract class Threads {
     public static void main(String[] args) {
